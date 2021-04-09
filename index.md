@@ -5,4 +5,4 @@ Welcome to the documentation repository for the Quantitative Ecohydrological Ass
 
 
 - __Current contents__
-    - Link to [2020 TRCR paper](https://trevor-baker.github.io/QEA/QEA_TRCR_final.pdf)  
+    - [2020 BC Technical and Research Committee on Reclamation paper](https://trevor-baker.github.io/QEA/QEA_TRCR_final.pdf)  
