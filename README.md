@@ -5,5 +5,5 @@ Trevor Baker, Integral Ecology Group (tbaker@iegconsulting.com)
 
 The QEA tool for mine reclamation is available at [qea.iegsoil.com](https://qea.iegsoil.com)
 
-- [App user guide](https://trevor-baker.github.io/QEA/QEA_user_guide_20211108.pdf)
-- [TRCR paper](https://trevor-baker.github.io/QEA/QEA_TRCR_final.pdf)
+- [App user guide](https://s3.us-west-2.amazonaws.com/guide.iegsoil.com/QEA_user_guide.pdf)
+- [TRCR paper](https://s3.us-west-2.amazonaws.com/guide.iegsoil.com/QEA_TRCR_final.pdf)
